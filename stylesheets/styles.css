@@ -109,7 +109,11 @@ footer {
 		justify-content: center;
 }
 .footerbar{
-	background-color: 
+	background-color: #4C4C49;
+	height:40vh;
+}
+.create{
+	color:rgb(235, 235, 235);;
 }
 
 
