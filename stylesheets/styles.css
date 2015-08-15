@@ -59,7 +59,7 @@ h3
 		justify-content: center;
 }
 .user{
-	color:white;
+	color:black;
 }
 .headerbar_userimage {
 	margin-top: 15px; 
@@ -89,10 +89,15 @@ h3
   display: -webkit-flex;     /* NEW - Chrome */
   display: flex;
 }
+@media screen and (min-width: 300px) and (max-width: 800px){
+ .block-container{
+  display: inline-block;
+}
+ }
 .block{
 	margin: 15px;
 	padding: 15px;
-	background-color: #D9DFE8
+	background-color: #D9DFE8;
 }
 .social-media ul li {
 	display: inline-block;
