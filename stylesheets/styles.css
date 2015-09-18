@@ -120,6 +120,29 @@ footer {
 .create{
 	color:rgb(235, 235, 235);;
 }
+.icon {
+	margin-left: 10px;
+	font-size: 24px;
+	color: rgb(235, 235, 235);;
+}
+
+.icon-facebook2:hover{
+	color:rgb(59, 89, 152);
+}
+
+.icon-twitter:hover{
+	color:rgb(0, 172, 237);
+}
+.icon-google-plus2:hover{
+	color:rgb(221, 75, 57);
+}
+
+.icon-linkedin:hover{
+	color:rgb(0, 123, 181);
+}
+.icon-github4:hover{
+	color:#333333;
+}
 
 
 
